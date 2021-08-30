@@ -1,4 +1,4 @@
-# GENERATE ANIME CHARACTERS
+# This Repository implement different General Adversarial Networks which can be used to create new images/characters
 
 ### Implement
 
